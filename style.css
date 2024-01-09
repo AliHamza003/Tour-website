@@ -108,6 +108,7 @@ section{
     display: grid;
     grid-template-columns: repeat(2,1fr);
     align-items: center;
+    
 
     
     
@@ -115,9 +116,11 @@ section{
 
 .home-img img{
     max-width: 100%;
-    width: 800px;
-    height:300px;
-    margin-top: 20px;
+    width: 280px;
+    height:auto;
+    margin-top: 30px;
+    margin-left: 150px;
+    display: inline-flex;
 }
 .home-text h4{
     color: rgb(78, 8, 142);
