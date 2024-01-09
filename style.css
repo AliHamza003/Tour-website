@@ -138,5 +138,36 @@ section{
     font-weight: 500;
     line-height: 30px;
     margin-bottom: 30px;
-    
+
+}
+.button{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.btn1{
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-transform: capitalize;
+    background: rgb(49, 3, 92);
+    border-radius: 10px;
+    margin-right: 40px;
+    transition: all .42s;
+
+}
+.btn1:hover{
+    transform: translateY(-5px);
+}
+.btn2{
+    color: #232d42;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 }
