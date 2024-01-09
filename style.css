@@ -94,7 +94,7 @@ header{
 
 /*----Home-Section---*/
 section{
-    padding: 60px 12%;
+    padding: 0px 12%;
     margin: 0%;
     
 }
@@ -121,7 +121,7 @@ section{
 }
 .home-text h4{
     color: rgb(78, 8, 142);
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 600;
     text-transform: uppercase;
     margin-bottom: 10px;
@@ -130,10 +130,10 @@ section{
 }
 .home-text h1{
     color: #181E48;
-    font-size: 50px;
+    font-size: 45px;
     font-family: 'volkhov';
     font-weight: 700;
-    line-height: 60px;
+    line-height: 55px;
     letter-spacing: -0.04cm;
     margin-bottom: 18px;
 
