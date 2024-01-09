@@ -163,11 +163,30 @@ section{
     transform: translateY(-5px);
 }
 .btn2{
-    color: #232d42;
+    color: #181E48;
     font-size: 16px;
     font-weight: 500;
     text-transform: capitalize;
     display: inline-flex;
     align-items: center;
     justify-content: center;
+}
+.btn2 span i{
+    width: 52px;
+    height: 52px;
+    background: rgb(49, 3, 92);
+    color: #ffffffff;
+    font-size: 40px;
+    display: inline-flex;
+    align-items:center;
+    justify-content: center;
+    border-radius: 50%;
+    box-shadow: 0px 15px 30px rgb(223,105,81,0.3);
+    margin-right: 15px;
+    transition: all .42s;
+
+}
+.btn2 span i:hover{
+    background: transparent;
+    color: #212832;
 }
