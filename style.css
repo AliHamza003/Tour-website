@@ -8,7 +8,9 @@
     list-style: none;
     text-decoration: none;
 }
-
+:root{
+    --blue:#212832;
+}
 /*Header---------------*/
 header{
     position: fixed;
@@ -58,4 +60,15 @@ header{
 }
 .navmenu a:hover::after{
     width: 85%;
+}
+.btn-icon{
+    display: flex;
+    align-items: center;
+}
+.nav-btn{
+    font-size: 17px;
+    color: var(--blue);
+    font-weight: 500;
+    border: 2px solid var(--blue);
+    padding: 5px 15px;
 }
