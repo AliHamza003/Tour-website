@@ -180,10 +180,10 @@ section{
     align-items: center;
     justify-content: center;
 }
-.btn2 span i{
+.btn2 span {
     width: 52px;
     height: 52px;
-    background: rgb(49, 3, 92);
+    background:rgb(45, 25, 0);
     color: #ffffffff;
     font-size: 40px;
     display: inline-flex;
@@ -195,7 +195,7 @@ section{
     transition: all .42s;
 
 }
-.btn2 span i:hover{
+.btn2 span:hover{
     background: transparent;
     color: #212832;
 }
