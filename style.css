@@ -28,7 +28,6 @@ header{
     max-width: 100%;
     width: 115px;
     height: auto;
-
 }
 .navmenu{
     display: flex;
@@ -71,4 +70,21 @@ header{
     font-weight: 500;
     border: 2px solid var(--blue);
     padding: 5px 15px;
+    border-radius: 5px;
+    margin-right: 20px;
+    transition: all .42s;
+
 }
+.nav-btn:hover{
+    background-color: var(--blue);
+    color: #ffffff;
+}
+#menu-icon{
+    font-size: 35px;
+    color: var(--blue);
+    z-index: 10001;
+    cursor: pointer;
+    display: none;
+}
+
+/*----Home-Section---*/
