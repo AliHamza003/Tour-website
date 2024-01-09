@@ -7,7 +7,7 @@
     font-family: 'Poppins', sans-serif;
     list-style: none;
     text-decoration: none;
-    overflow: hidden;
+    
     
 }
 :root{
@@ -93,6 +93,7 @@ header{
 section{
     padding: 60px 12%;
     margin: 0%;
+    
 }
 .home{
     width: 100%;
