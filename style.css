@@ -88,3 +88,14 @@ header{
 }
 
 /*----Home-Section---*/
+section{
+    padding: 60px 12%;
+}
+.home{
+    width: 100%;
+    height: 100vh;
+    background-image: url(/images/decore.png);
+    background-position: center;
+    background-size: cover;
+    
+}
