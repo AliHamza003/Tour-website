@@ -10,6 +10,7 @@
     
     
     
+    
 }
 :root{
     --blue:#212832;
@@ -101,12 +102,13 @@ section{
     width: 100%;
     height: 100vh;
     background-image: url(/images/decore.png);
-    background-position: center center;
+    background-position: center;
     background-size:auto;
     background-repeat: no-repeat;
     display: grid;
     grid-template-columns: repeat(2,1fr);
     align-items: center;
+
     
     
 }
