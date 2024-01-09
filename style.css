@@ -90,13 +90,22 @@ header{
 /*----Home-Section---*/
 section{
     padding: 60px 12%;
+    margin: 0%;
 }
-.Home{
+.home{
     width: 100%;
     height: 100vh;
     background-image: url(/images/decore.png);
     background-position: center;
-    background-size: cover;
-    margin-right: 0%;
+    background-size:auto;
 
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+}
+
+.home-img img{
+    max-width: 100%;
+    width: 1800px;
+    height:auto;
 }
