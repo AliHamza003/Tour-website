@@ -46,7 +46,7 @@ header{
 }
 
 .navmenu a::after{
-    content: '';
+    content: ' ';
     position: absolute;
     width: 0%;
     height: 2px;
