@@ -214,7 +214,7 @@ section{
 
 }
 .center-text h2{
-    font-size: 50px;
+    font-size: 45px;
     color: #14183e;
     font-weight: 700;
     text-transform: capitalize;
@@ -223,7 +223,10 @@ section{
 
 }
 .cate-pro{
-    
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px,auto));
+    gap: 1rem;
+    text-align: center;
 }
 /*--------sticky dsign-------*/
 header.sticky{
