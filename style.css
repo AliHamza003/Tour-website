@@ -229,7 +229,10 @@ section{
     text-align: center;
 }
 .col{
-
+    padding: 60px 40px;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.1) ;
+    transition: all .42s;
 }
 /*--------sticky dsign-------*/
 header.sticky{
