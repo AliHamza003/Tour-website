@@ -201,6 +201,10 @@ section{
 }
 
 /*--------category-section------*/
+.center-text{
+    text-align: center;
+    
+}
 /*--------sticky dsign-------*/
 header.sticky{
     background-color:#47E5BC;
