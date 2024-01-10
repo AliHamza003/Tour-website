@@ -249,6 +249,11 @@ section{
 .col p{
     color: #5E6282;
     font-size: 14px;
+    font-weight: 500;
+
+}
+.col:hover{
+    transform: translateY(-8px);
     
 }
 /*--------sticky dsign-------*/
