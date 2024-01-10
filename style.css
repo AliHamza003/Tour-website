@@ -203,7 +203,13 @@ section{
 /*--------category-section------*/
 .center-text{
     text-align: center;
-    
+
+}
+.center-text h4{
+    font-size: 18px;
+    color: #5E6282;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 /*--------sticky dsign-------*/
 header.sticky{
