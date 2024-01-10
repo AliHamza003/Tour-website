@@ -237,6 +237,19 @@ section{
 .col img{
     width: 75px;
     height: auto;
+    margin-bottom: 20px;
+}
+.col h5{
+    font-size: 16px;
+    color: #1E1D4C;
+    font-weight: 600;
+    margin-bottom: 15px;
+
+}
+.col p{
+    color: #5E6282;
+    font-size: 14px;
+    
 }
 /*--------sticky dsign-------*/
 header.sticky{
