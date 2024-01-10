@@ -203,8 +203,8 @@ section{
 /*--------category-section------*/
 /*--------sticky dsign-------*/
 header.stiky{
-    background-color: #fff1da;
-    padding: 22px 12%;
+    background-color:red;
+    padding: 0px 12%;
     box-shadow: 0px 4px 15px rgb(0 0 0 /8%);
     transition: 43s;
 
