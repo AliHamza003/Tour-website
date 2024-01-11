@@ -288,3 +288,12 @@ header.sticky{
     text-align: center;
     margin-top: 130px;
 }
+.destination-text h2{
+    color: #14183e;
+    font-size: 45px;
+    text-transform: capitalize;
+    font-weight: 700px;
+    text-align: center;
+    font-family: 'volkhow';
+
+}
