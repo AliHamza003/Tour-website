@@ -324,5 +324,26 @@ header.sticky{
     color: #fff;
     font-size: 14px;
     font-weight: 500px;
+
+}
+.count-text{
+    position: absolute;
+    top: 70px;
+    left: 20px;
     
+}
+.box h6{
+    color: #fff;
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: uppercase;
+
+    }
+.hov-img{
+    overflow: hidden;
+
+}
+.hov-img:hover{
+    transform:scale(1.1);
+    filter: brightness(50%) hue-rotate(45deg);
 }
