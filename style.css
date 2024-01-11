@@ -277,6 +277,7 @@ header.sticky{
     grid-template-columns: repeat(auto-fit,minmax(190px,auto));
     align-items: center;
     gap: 0.5rem;
+    
 
 }
 .destination-text h5{
@@ -296,4 +297,8 @@ header.sticky{
     text-align: center;
     font-family: 'volkhow';
 
+}
+.hov-img img{
+    width: 93%;
+    height: auto;
 }
