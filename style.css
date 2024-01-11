@@ -272,3 +272,10 @@ header.sticky{
     align-items: center;
     gap: 2rem;
 }
+.main-dest{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(240px,auto));
+    align-items: center;
+    gap: 2rem;
+    
+}
