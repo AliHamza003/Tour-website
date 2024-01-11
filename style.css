@@ -300,6 +300,11 @@ header.sticky{
 }
 .hov-img img{
     width: 93%;
-    max-height: auto;
-    border-radius: 10px;
+    height: auto;
+  /*  border-radius*/
+  transition: all .42s;
+
+}
+.box{
+    position: relative;
 }
