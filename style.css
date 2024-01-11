@@ -314,3 +314,15 @@ header.sticky{
     left: 20px;
 
 }
+.text-in h5{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500px;
+    text-transform: capitalize;
+}
+.text-in p{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500px;
+    
+}
