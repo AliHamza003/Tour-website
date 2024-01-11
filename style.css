@@ -279,3 +279,12 @@ header.sticky{
     gap: 0.5rem;
 
 }
+.destination-text h5{
+    font-size: 18px;
+    color: #5E6282;
+    text-transform: capitalize;
+    font-weight: 600;
+    line-height: 25px;
+    text-align: center;
+    margin-top: 160px;
+}
