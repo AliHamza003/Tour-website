@@ -300,5 +300,6 @@ header.sticky{
 }
 .hov-img img{
     width: 93%;
-    height: auto;
+    max-height: auto;
+    border-radius: 10px;
 }
