@@ -308,3 +308,9 @@ header.sticky{
 .box{
     position: relative;
 }
+.box .text-in{
+    position: absolute;
+    bottom: 80px;
+    left: 20px;
+
+}
