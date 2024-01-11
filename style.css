@@ -268,7 +268,7 @@ header.sticky{
 /*---------desinations-section-------------*/
 .destinations-section{
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(190px, auto));
+    grid-template-columns: repeat(auto-fit,minmax(190px,auto));
     align-items: center;
     gap: 2rem;
 }
@@ -301,7 +301,7 @@ header.sticky{
 .hov-img img{
     width: 93%;
     height: auto;
-  /*  border-radius*/
+  border-radius:10px;
   transition: all .42s;
 
 }
