@@ -378,5 +378,13 @@ header.sticky{
  max-width: 100%;
  width: 70px;
  height: 70px;
+
+}
+.rights h5{
+    color: #5E6282;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 600;
+    margin-top: 3px;
     
 }
