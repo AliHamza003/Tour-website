@@ -407,4 +407,9 @@ header.sticky{
 .air-office{
     padding-top: 100px;
     padding-bottom: 100px;
+
+}
+.office.name{
+    display: grid;
+    
 }
