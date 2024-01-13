@@ -411,7 +411,7 @@ header.sticky{
 }
 .office-name{
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(160px,auto));
+    grid-template-columns: repeat(auto-fit,minmax(130px,auto));
     gap: 3rem;
     align-items: center;
 }
