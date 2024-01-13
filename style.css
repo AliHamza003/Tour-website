@@ -415,3 +415,9 @@ header.sticky{
     gap: 3rem;
     align-items: center;
 }
+
+.office-name img{
+    max-width: 100%;
+    width: 170px;
+    height: auto;
+}
