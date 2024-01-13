@@ -347,3 +347,10 @@ header.sticky{
     transform:scale(1.05);
     filter: brightness(50%) hue-rotate(45deg);
 }
+
+
+/*----------------Testimonials section-----------*/
+.test-text{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
