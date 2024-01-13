@@ -360,5 +360,7 @@ header.sticky{
     color: #5E6282;
     font-size: 18px;
     text-transform: capitalize;
-    
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    margin-bottom: 15px;
 }
