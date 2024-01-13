@@ -420,4 +420,9 @@ header.sticky{
     max-width: 100%;
     width: 120px;
     height: auto;
+    transition: all .42s;
+}
+.office-name img:hover{
+    transform: translateY(-5px);
+    
 }
