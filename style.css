@@ -409,7 +409,7 @@ header.sticky{
     padding-bottom: 100px;
 
 }
-.office.name{
+.office-name{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(160px,auto));
     gap: 3rem;
