@@ -413,4 +413,5 @@ header.sticky{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(160px,auto));
     gap: 3rem;
+    align-items: center;
 }
