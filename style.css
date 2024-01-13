@@ -397,5 +397,8 @@ header.sticky{
 }
 .rights p{
     color: #5E6282;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 25px;
     
 }
