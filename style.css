@@ -386,5 +386,11 @@ header.sticky{
     text-transform: capitalize;
     font-weight: 600;
     margin-top: 3px;
-    
+
+}
+.rights h6{
+    color: #5E6282;
+    font-size: 14px;
+    text-transform: capitalize;
+    font-weight: 500;
 }
