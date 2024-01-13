@@ -353,4 +353,12 @@ header.sticky{
 .test-text{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+
+}
+.left h4{
+    color: #5E6282;
+    font-size: 18px;
+    text-transform: capitalize;
+    
 }
