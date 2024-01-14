@@ -609,5 +609,15 @@ transition: all .42s;
     }
     .home-text p{
         font-size: 12px;
+        transition: .3s;
+
+    }
+}
+
+@media (max-width:1000px) {
+    .test-text{
+        grid-template-columns: 1fr;
+        height: 100%;
+        text-align: center;
     }
 }
