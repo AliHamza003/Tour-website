@@ -509,4 +509,5 @@ transition: all .42s;
     font-size: 16px;
     text-transform: capitalize;
     font-weight: 500;
+    margin-bottom: 15px;
 }
