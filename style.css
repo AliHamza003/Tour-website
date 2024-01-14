@@ -350,6 +350,9 @@ header.sticky{
 
 
 /*----------------Testimonials section-----------*/
+.Testimonials{
+    margin-top: 30px;
+}
 .test-text{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -528,4 +531,6 @@ transition: all .42s;
 .end-text{
     text-align: center;
     padding: 20px;
+    background-color: #181E48;
+    color: #fff;
 }
