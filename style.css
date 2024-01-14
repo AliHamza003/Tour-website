@@ -445,4 +445,10 @@ align-items: center;
     color: #5E6282;
     font-size: 13px;
     line-height: 20px;
+    font-weight: 500;
+    margin-top: 15px;
+    cursor: pointer;
+    transition: all .42s;
+
+
 }
