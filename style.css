@@ -619,5 +619,7 @@ transition: all .42s;
         grid-template-columns: 1fr;
         height: 100%;
         text-align: center;
+        transition: .3s;
+        
     }
 }
