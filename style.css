@@ -510,4 +510,10 @@ transition: all .42s;
     text-transform: capitalize;
     font-weight: 500;
     margin-bottom: 15px;
+    cursor: pointer;
+    transition: all .42s;
+
+}
+.fifth-info h5:hover{
+    color: #080809;
 }
