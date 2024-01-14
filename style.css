@@ -465,5 +465,7 @@ align-items: center;
 .contact-info p{
     color: #5E6282;
     font-size: 15px;
-    font-weight: 50px;
+    font-weight: 500;
+    text-transform: capitalize;
+
 }
