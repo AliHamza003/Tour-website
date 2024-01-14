@@ -5,4 +5,9 @@ window.addEventListener("scroll",function(){
 });
 
 let menu= document.querySelector('#menu-icon');
-let menu= document.querySelector('.navmenu');
+let navmenu= document.querySelector('.navmenu');
+
+menu.onClick = ()=>{
+    menu.classList.toggle("bx-x")
+    menu.classList.toggle("open")
+}
