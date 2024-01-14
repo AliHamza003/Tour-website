@@ -521,4 +521,6 @@ transition: all .42s;
 .img-info img{
     width: 100px;
     height: auto;
+    margin-right: 10px;
+    cursor: pointer;
 }
