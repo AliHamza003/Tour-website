@@ -597,6 +597,17 @@ transition: all .42s;
     .home-text p{
         font-size: 15px;
         transition: .3s;
-        
+
+    }
+}
+
+@media (max-width:415px) {
+    .home-text h1{
+        font-size: 40px;
+        line-height: 50px;
+        transition: .3s;
+    }
+    .home-text p{
+        font-size: 12px;
     }
 }
