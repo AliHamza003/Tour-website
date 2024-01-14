@@ -271,12 +271,14 @@ header.sticky{
     grid-template-columns: repeat(auto-fit,minmax(190px,auto));
     align-items: center;
     gap: 2rem;
+    
 }
 .main-dest{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(190px,auto));
     align-items: center;
     gap: 2rem;
+    
     
 
 }
