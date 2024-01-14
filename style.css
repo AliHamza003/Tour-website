@@ -646,5 +646,9 @@ transition: all .42s;
         padding: 16px;
         margin: 8px;
         border-left: 2px solid #212832;
+
+    }
+    .navmenu.open{
+        top:100%
     }
 }
