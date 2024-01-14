@@ -437,5 +437,6 @@ align-items: center;
 .first-info img{
     max-width: 100%;
     width: 120px;
+    height: auto;
     
 }
