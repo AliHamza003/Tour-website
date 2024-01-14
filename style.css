@@ -428,9 +428,12 @@ header.sticky{
 }
 
 /*contact-section*/
-contact-info{
+.contact-info{
 display: grid;
 grid-template-columns: repeat(auto-fit,minmax(160px, auto));
 gap: 2rem;
 align-items: center;
+}
+.img-info{
+    width: 1200px;
 }
