@@ -439,4 +439,10 @@ align-items: center;
     width: 120px;
     height: auto;
     margin-left: -14px;
+
+}
+.first-info h6{
+    color: #5E6282;
+    font-size: 13px;
+    line-height: 20px;
 }
