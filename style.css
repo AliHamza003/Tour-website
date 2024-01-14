@@ -542,3 +542,10 @@ transition: all .42s;
     background-color: #181E48;
     color: #fff;
 }
+.footr p{
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
