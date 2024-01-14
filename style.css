@@ -524,3 +524,8 @@ transition: all .42s;
     margin-right: 10px;
     cursor: pointer;
 }
+/*----div-end-section-----*/
+.end-text{
+    text-align: center;
+    padding: 20px;
+}
