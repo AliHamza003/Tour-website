@@ -434,6 +434,8 @@ grid-template-columns: repeat(auto-fit,minmax(120px, auto));
 gap: 2rem;
 align-items: center;
 }
-.img-info{
-    width: 1200px;
+.first-info img{
+    max-width: 100%;
+    width: 120px;
+    
 }
