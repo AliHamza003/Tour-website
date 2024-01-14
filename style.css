@@ -631,7 +631,7 @@ transition: all .42s;
     }
     .navmenu{
         position: absolute;
-        top: 100%;
+        top: -600px;
         left: 0;
         right: 0;
         flex-direction: column;
