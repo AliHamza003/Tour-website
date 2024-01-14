@@ -494,3 +494,6 @@ transition: all .42s;
 
 
 }
+.fifth-info .icon .grad-icon{
+    background: linear-gradient(#ef32d9, #89fffd);
+}
