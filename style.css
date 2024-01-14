@@ -549,3 +549,21 @@ transition: all .42s;
     text-transform: capitalize;
     font-weight: 500;
 }
+
+/*------------Responsive-Design----------*/
+@media (max-width:1265px) {
+    header{
+        padding: 25px 4%;
+        transition: .3s;
+
+    }
+    section{
+        padding: 60px 4%;
+        transition: .3s;
+
+
+    }
+}
+@media (max-width:1050px) {
+    
+}
