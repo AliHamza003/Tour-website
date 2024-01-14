@@ -504,7 +504,7 @@ transition: all .42s;
     transform: scale(1.1);
 
 }
-fifth-info h5{
+.fifth-info h5{
     color: #5E6282;
     font-size: 16px;
     text-transform: capitalize;
