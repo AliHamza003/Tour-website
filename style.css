@@ -527,6 +527,12 @@ transition: all .42s;
     margin-right: 10px;
     cursor: pointer;
 }
+
+.img-info #apple {
+    height: 40px;
+    width: 120px;
+    margin-bottom: -5px;
+}
 /*----div-end-section-----*/
 .end-text{
     text-align: center;
