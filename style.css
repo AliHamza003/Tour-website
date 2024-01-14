@@ -496,4 +496,17 @@ transition: all .42s;
 }
 .fifth-info .icon .grad-icon{
     background: linear-gradient(#ef32d9, #89fffd);
+    color: #fff;
+
+}
+
+.fifth-info .icon a:hover{
+    transform: scale(1.1);
+
+}
+fifth-info h5{
+    color: #5E6282;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 500;
 }
