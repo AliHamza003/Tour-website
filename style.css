@@ -565,5 +565,15 @@ transition: all .42s;
     }
 }
 @media (max-width:1050px) {
-    
+    .home{
+        grid-template-columns: 1fr;
+        height: 100%;
+        transition: .3s;
+
+    }
+    .home-text{
+        padding-top: 100px;
+        text-align: center;
+        transition: .3s;
+    }
 }
