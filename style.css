@@ -433,11 +433,13 @@ header.sticky{
 }
 
 /*contact-section*/
+
 .contact-info{
 display: grid;
 grid-template-columns: repeat(auto-fit,minmax(110px, auto));
 gap: 2rem;
 align-items: center;
+margin-bottom: 22px;
 }
 .first-info img{
     max-width: 100%;
